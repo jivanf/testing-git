@@ -1,2 +1,2 @@
 This is a test file for testing git
-This change was added from the "testing" branch, so master won't see it...
+Master can now see this change because branches were merged (This was made from GitHub)
